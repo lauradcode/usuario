@@ -1,6 +1,5 @@
 package com.lauradcode.usuario.infrastructure.security;
 
-
 import com.lauradcode.usuario.infrastructure.entity.Usuario;
 import com.lauradcode.usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
